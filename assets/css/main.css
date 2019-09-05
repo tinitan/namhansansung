@@ -111,7 +111,7 @@ html {
    
 }
 /* 에니메이션 */
-.imagemain:after { 
+/*.imagemain:after { 
     content:'';
     width: 200px; 
     height: 300px; 
@@ -125,7 +125,7 @@ html {
     /*background-position: 0px 0px;
     background-repeat: repeat-x;*/
     /*border-radius: 5px;*/
-   position:absolute;
+  /* position:absolute;
   
       -webkit-transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
       -webkit-animation-delay: -1s!important;
@@ -135,7 +135,7 @@ html {
       -webkit-animation-iteration-count: infinite;
 
       /*transition: 0.3s;  /* cubic-bezier(0,.43,1,0); /*captured 포시 */
-      transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+     /*transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
       animation-delay: -1s!important;
       transform:scale(0.05);
       animation-name: movingPara;
@@ -158,7 +158,7 @@ html {
     /*background-position: 0px 0px;
     background-repeat: repeat-x;*/
     /*border-radius: 5px;*/
-   position:absolute;
+  /* position:absolute;
   
       -webkit-transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
       -webkit-animation-delay: -1s!important;
@@ -168,7 +168,7 @@ html {
       -webkit-animation-iteration-count: infinite;
 
       /*transition: 0.3s;  /* cubic-bezier(0,.43,1,0); /*captured 포시 */
-      transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+     /* transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
       animation-delay: -1s!important;
       transform:scale(0.05);
       animation-name: movingPara;
